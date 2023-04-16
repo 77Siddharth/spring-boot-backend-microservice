@@ -1,5 +1,7 @@
 # spring-boot-backend-microservice
 
+A Simple app microservice backend built having - load balancing , Gateway feature , tracing all request paths to understand the point of failure displaying processing time for each service per request.
+
 EXCHANGE SERVICE
 http://localhost:8000/currency-exchange/from/USD/to/INR
 ![image](https://user-images.githubusercontent.com/30522963/232289463-03313b34-3cb5-441c-89a5-fc9a9f193afe.png)
