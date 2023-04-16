@@ -3,6 +3,8 @@
 A Simple app microservice backend built having - load balancing , Gateway feature , tracing all request paths to understand the point of failure displaying processing time for each service per request.
 
 FLOW ====> GATEWAY-> CURRENCY CONVERSION SERVICE -> CURRENCY EXCHANGE SERVICE
+Sequence of starting --> Name server -> Exchange service -> conversion service 
+No sequence of starting these->  Gateway service , Tracing server
 
 EXCHANGE SERVICE
 http://localhost:8000/currency-exchange/from/USD/to/INR
