@@ -21,3 +21,4 @@ http://127.0.0.1:9411/zipkin
 ![image](https://user-images.githubusercontent.com/30522963/232289554-cacb71ba-39a4-4596-8aa7-25d0e6c72a6c.png)
 
 
+![image](https://user-images.githubusercontent.com/30522963/232290163-a5c0ae0e-df49-43cb-b95b-95ddb298a336.png)
