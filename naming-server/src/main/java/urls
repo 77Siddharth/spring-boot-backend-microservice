@@ -1,0 +1,18 @@
+H2 CONSOLE
+http://localhost:8000/h2-console/login.do?jsessionid=3ad23e75f650348e48c3b9837260c1ae\
+
+EUREKA
+http://localhost:8761/
+
+GATEWAY
+http://localhost:8765/currency-conversion-feign/from/USD/to/INR/quantity/10
+
+CONVERSION SERVICE
+http://localhost:8100/currency-conversion-feign/from/USD/to/INR/quantity/10
+
+EXCHANGE SERVICE
+http://localhost:8000/currency-exchange/from/USD/to/INR
+
+ZIPKIN
+http://127.0.0.1:9411/zipkin
+
