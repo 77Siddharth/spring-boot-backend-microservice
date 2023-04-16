@@ -2,6 +2,12 @@
 
 A Simple app microservice backend built having - load balancing , Gateway feature , tracing all request paths to understand the point of failure displaying processing time for each service per request.
 
+TechStack -> 
+Spring Boot, JPA ,DOCKER,
+EUREKA ( Name Server),
+FEIGN ( for connecting different micro services )  ,
+ZIPKIN ,OPEN TELEMETRY ,Micrometer ( tracing , assigning ID to each request and anaylsing)
+
 FLOW ====> GATEWAY-> CURRENCY CONVERSION SERVICE -> CURRENCY EXCHANGE SERVICE
 Sequence of starting --> Name server -> Exchange service -> conversion service 
 No sequence of starting these->  Gateway service , Tracing server
